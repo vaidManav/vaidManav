@@ -20,17 +20,12 @@
  <a> <img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
 	<a><img src="https://github.com/KashishGoyal905/KashishGoyal905/blob/main/GitKraken.png" width="48" height="48"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-  <a><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
  <a><img src="https://img.icons8.com/officel/50/4a90e2/java-eclipse.png" width="48" height="48"/></a>
- <a><img src="https://img.icons8.com/wired/64/fa314a/postman-api.png" width="48" height="48"/></a>
 	<a><img src="https://img.icons8.com/color/48/000000/kali-linux.png" width="48" height="48"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-  <a><img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" width="48" height="48"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 	<a><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
   <a><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
@@ -42,22 +37,22 @@
 <br />
 
 <p align="center">
-    <a href="https://github.com/KashishGoyal905/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kashish Goyal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KashishGoyal905&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/vaidManav/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manav Vaid streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaidManav&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats <img src="https://github.com/KashishGoyal905/KashishGoyal905/blob/main/Developer.gif" width="45px">
+## 📊 My Github Stats <img src="https://github.com/vaidManav/vaidManav/blob/main/Developer.gif" width="45px">
   <br/>
-    <a href="https://github.com/KashishGoyal905/github-readme-stats"><img alt="Kashish Goyal Github Stats" src="https://github-readme-stats.vercel.app/api?username=KashishGoyal905&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/KashishGoyal905/github-readme-stats"><img alt="Kashish Goyal Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashishGoyal905&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/vaidManav/github-readme-stats"><img alt="vaidManav Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaidManav&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vaidManav/github-readme-stats"><img alt="Manav Vaid Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidManav&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
  
  
  
 <br/>
 <br/>
 
-<a href="https://github.com/KashishGoyal905/github-readme-activity-graph"><img alt="Kashish Goyal Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KashishGoyal905&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vaidManav/github-readme-activity-graph"><img alt="Manav Vaid Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vaidManav&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
