@@ -59,62 +59,9 @@
 
 ## ❤ Followers and  Views 
 
-<a href="https://github.com/KashishGoyal905?tab=followers"><img src="https://img.shields.io/github/followers/KashishGoyal905?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/vaidManav?tab=followers"><img src="https://img.shields.io/github/followers/vaidManav?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38380%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 519 Contributions in the Year 2021
- > 
-> 📦 116.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 35 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    90 commits     ██████░░░░░░░░░░░░░░░░░░░   25.79% 
-🌆 Daytime    136 commits    █████████░░░░░░░░░░░░░░░░   38.97% 
-🌃 Evening    122 commits    ████████░░░░░░░░░░░░░░░░░   34.96% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
-Tuesday      46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-Wednesday    53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
-Friday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-Saturday     71 commits     █████░░░░░░░░░░░░░░░░░░░░   20.34% 
-Sunday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C++                      1 hr 54 mins        ██████████████████████░░░   91.47% 
-JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
-
-```
-
-
- Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 <div align="center">
  <br/>
@@ -124,14 +71,13 @@ EJS                      0 secs              ░░░░░░░░░░░�
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
 <p align="center">
-<a href= "https://twitter.com/KashishGoyal905"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-<a href="mailto:kashishgoyal961@gmail.com"><img alt="mail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
-<a href="https://github.com/KashishGoyal9"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-<a href="https://www.linkedin.com/in/KashishGoyal905"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-<a href= "https://www.instagram.com/kashu_since_2003/?hl=en"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+<a href="mailto:manavvaid1318@gmail.com"><img alt="mail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
+<a href="https://github.com/vaidManav"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+<a href="https://www.linkedin.com/in/vaidManav"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<a href= "https://www.instagram.com/vaidmanav.mohyal/?hl=en"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-### <h1>Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My [repositories](https://github.com/KashishGoyal905?tab=repositories)!<img src="https://github.com/KashishGoyal905/KashishGoyal905/blob/main/Rocket.gif" width="25px"></h1>
+### <h1>Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My [repositories](https://github.com/vaidManav?tab=repositories)!<img src="https://github.com/vaidManav/vaidManav/blob/main/Rocket.gif" width="25px"></h1>
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 </div>
 
